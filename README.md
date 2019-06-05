@@ -1,5 +1,5 @@
 # Linear Accelerator Tuning
-This repo contains the Unity3D project that addresses the task of linear accelerator beam trajectory tuning using Reinforcement Learning.
+This repo contains the Unity3D project that addresses the task of linear accelerator beam trajectory tuning using Reinforcement Learning.  
 The work was performed within the research on particle transport channel ways of automation in the Institute of Nuclear Physics.
 
 **The WebGL live version is avaliable [here](https://entrack.github.io/linear-accelerator-tuning/).**
@@ -31,7 +31,7 @@ AcceleratorLearning:
 ```
 
 ### Environment rationale
-The reason behind the simplicity of the virtual model used for training lies in the fact that both the emulated data and the experiment, indicates that **linear beam approximation to be appropriate**.
+The reason behind the simplicity of the virtual model used for training lies in the fact that both the emulated data and the experiment, indicates that **linear beam approximation to be appropriate**.  
 The hypothesis was that the cross-section beam intensity distribution will have only one area of maximum value and that it will not have drastic spikes (excluding regular noise). The collected and visualized data is provided below.
 
 ![](GitImages/4DT1.png)
