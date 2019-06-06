@@ -2,7 +2,7 @@
 This repo contains the Unity3D project that addresses the task of linear accelerator beam trajectory tuning using Reinforcement Learning.  
 The work was performed within the research on particle transport channel ways of automation in the Institute of Nuclear Physics.
 
-**The WebGL live version is avaliable [here](https://entrack.github.io/linear-accelerator-tuning/).**
+**The WebGL live version is avaliable [here](https://entrack.github.io/Linear-Accelerator-Tuning/).**
 
 ![](GitImages/run.gif)
 
